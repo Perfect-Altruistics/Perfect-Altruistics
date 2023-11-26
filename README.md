@@ -25,9 +25,7 @@ I am passionate about software development, cybersecurity, and exploring the rea
 I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
 
 <details>
-  <summary><a href="#read-more">Read more</a></summary>
+  <summary>Read more</summary>
   
   I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
 </details>
-
-<a name="read-more"></a>
