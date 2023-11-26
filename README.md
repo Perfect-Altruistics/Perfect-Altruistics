@@ -2,7 +2,10 @@
 
 # Hi👋, I'm Tito Joctan
 
-## ABOUT ME: 
+
+<details>
+  <summary>Read more</summary>
+  ## ABOUT ME: 
 I am passionate about software development, cybersecurity, and exploring the realms of web technologies. My skills span across various programming languages, with a focus on Python, Java, and web development technologies like HTML, CSS, and JavaScript. I am also actively engaged in ethical hacking and cybersecurity practices like practicing CTF on different platforms and locally in my community.
 
 ## CURRENT FOCUS:
@@ -24,8 +27,5 @@ I am passionate about software development, cybersecurity, and exploring the rea
 ## ⚡ Fun Fact
 I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
 
-<details>
-  <summary>Read more</summary>
-  
   I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
 </details>
