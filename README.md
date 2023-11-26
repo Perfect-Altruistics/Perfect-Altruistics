@@ -5,8 +5,11 @@
 
 <details>
 <summary>More about me click here </summary>
-  ## ABOUT ME: 
-I am passionate about software development, cybersecurity, and exploring the realms of web technologies. My skills span across various programming languages, with a focus on Python, Java, and web development technologies like HTML, CSS, and JavaScript. I am also actively engaged in ethical hacking and cybersecurity practices like practicing CTF on different platforms and locally in my community.
+  
+##  ABOUT ME: 
+👋 Hello, I'm Tito Joctan!
+
+🚀 Aspiring web developer, Python programmer, and database administrator (PostgreSQL & MySQL). Currently pursuing a Bachelor's degree in cybersecurity. Passionate about software and system development, I love exploring the intersection of technology and security. Join me on my coding journey as I share insights and experiences. Let's connect, learn, and grow together in the dynamic world of tech! 🌐✨
 
 ## CURRENT FOCUS:
 - Software Development
