@@ -30,4 +30,9 @@
 
 ## ⚡ Fun Fact
 I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
+
+## Soft Skillls
+- public speaking.
+- team work
+- communication
 </details>
