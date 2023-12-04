@@ -6,33 +6,63 @@
 <details>
 <summary>More about me click here </summary>
   
-##  ABOUT ME: 
-👋 Hello, I'm Tito Joctan!
+<div style="float: right">
+  <img src="perfectaltruist.png" alt="Tito Joctan" width="300" height="300" style="border-radius: 50%;">
+</div>
 
-🚀 Aspiring web developer, Python programmer, and database administrator (PostgreSQL & MySQL). Currently pursuing a Bachelor's degree in cybersecurity. Passionate about software and system development, I love exploring the intersection of technology and security. Join me on my coding journey as I share insights and experiences. Let's connect, learn, and grow together in the dynamic world of tech! 🌐✨
+# Tito Joctan
 
-## CURRENT FOCUS:
-- Software Development
-- Python Programming
-- Web technologies
-- Cybersecurity
-- Ethical Hacking.
-
-## I'm Currently learning
-- Web Development with Python(Flask And Django)
-- Penetration Testing Techniques
-- Computer programming with Python.
+## Introduction
+Hello, I'm Tito Joctan, a passionate Python Programmer, Technical Writer, Frontend Developer, Database Administrator in PostgreSQL and MySQL based in Arusha, Tanzania. Welcome to my personal profile page!
 
 
-## 📫 Get in Touch
-- LinkedIn: [Perfect Altruistic](https://www.linkedin.com/in/perfect-altruistic/)
-- Twitter: [Perfect Altruistic](https://twitter.com/Perfect_Altruis)
+## About Me
+I'm a passionate software developer and web developer based in Arusha, Tanzania. My expertise lies in Python programming, and I'm currently exploring the vast world of databases, with a focus on PostgreSQL and MySQL.
 
-## ⚡ Fun Fact
-I find joy in the simplicity of gardening in wild areas, embracing the tranquility of solitary moments, and immersing myself in the world of programming during my free time.
+## 💻 Tech Stack
+- **Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: PostgreSQL, MySQL
+- **Other Skills**: Kali linux command line, 
 
-## Soft Skillls
-- public speaking.
-- team work
-- communication
+
+## 🧰 Skills
+- **Technical Skills**: Kali Linux command line, Python programming, Web Development, Database Management (PostgreSQL, MySQL)
+- **Soft Skills**: communication, teamwork, problem-solving
+
+## 🌱 Current Learning
+I'm currently diving deeper into database management, honing my skills in both PostgreSQL and MySQL. Always eager to learn and explore new technologies to enhance my development journey.
+
+## 🚀 Projects
+
+### Project 1: PythonCodes
+-  [GameHub](https://github.com/Perfect-Altruistics/GameHub): A collection of 2D games build and developed in python using pygame library.
+
+### Project 2: Pythoncodes
+- [Pythoncodes ](https://github.com/Perfect-Altruistics/pythoncodes): A collection of Python code snippets mostly for beginners, if you're experienced programmer in python you'll not be happy with the repository as it is developed early for beginners
+
+### Project 3: AuthFlaskApp
+-  [AuthFlaskApp](https://github.com/Perfect-Altruistics/AuthFkaskApp): A flask  Web Application built using the Flask framework and PostgreSQl that focuses on user authentication. 
+
+### Project 4: TaskManager
+- [TaskManager](https://github.com/Perfect-Altruistics/TaskManager): Simple task manager in python, flask, PostgreSQL, html and css.
+
+
+###### More Projects are in: [github](https://github.com/Perfect-Altruistics)
+
+
+## 📝 Blog
+Catch up with my latest articles on [Hashnode](https://hashnode.com/@Altruist) where I share insights into my development journey, tips, and tutorials.
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/perfect-altruistic/)
+- [Twitter](https://twitter.com/Perfect_Altruis)
+- [Hashnode](https://hashnode.com/@Altruist)
+- [GitHub](https://github.com/Perfect-Altruistics)
+
+Feel free to reach out for collaboration, tech discussions, or just to connect.
+Looking forward to sharing and learning with the amazing developer community on Hashnode!
+
+Happy coding! 🚀
+
 </details>
