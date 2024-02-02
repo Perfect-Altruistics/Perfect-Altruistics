@@ -32,7 +32,7 @@ I'm currently diving deeper into database management, honing my skills in both P
 ## 🚀 Projects
 
 ### Project 1: PythonCodes
--  [GameHub](https://github.com/Perfect-Altruistics/GameHub): A collection of 2D games build and developed in python using pygame library.
+-  [GameHub](https://github.com/Perfect-Altruistics/GameHub): 
 
 ### Project 2: Pythoncodes
 - [Pythoncodes ](https://github.com/Perfect-Altruistics/pythoncodes): A collection of Python code snippets mostly for beginners, if you're experienced programmer in python you'll not be happy with the repository as it is developed early for beginners
