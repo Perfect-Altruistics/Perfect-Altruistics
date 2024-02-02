@@ -7,8 +7,6 @@
 <summary>More about me click here </summary>
   
 <div style="float: right">
-  <img src="perfectaltruist.png" alt="Tito Joctan" width="300" height="300" style="border-radius: 50%;">
-</div>
 
 # Tito Joctan
 
