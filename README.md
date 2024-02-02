@@ -37,12 +37,6 @@ I'm currently diving deeper into database management, honing my skills in both P
 ### Project 2: Pythoncodes
 - [Pythoncodes ](https://github.com/Perfect-Altruistics/pythoncodes): A collection of Python code snippets mostly for beginners, if you're experienced programmer in python you'll not be happy with the repository as it is developed early for beginners
 
-### Project 3: AuthFlaskApp
--  [AuthFlaskApp](https://github.com/Perfect-Altruistics/AuthFkaskApp): A flask  Web Application built using the Flask framework and PostgreSQl that focuses on user authentication. 
-
-### Project 4: TaskManager
-- [TaskManager](https://github.com/Perfect-Altruistics/TaskManager): Simple task manager in python, flask, PostgreSQL, html and css.
-
 ## 📝 Blog
 Catch up with my latest articles on [Hashnode](https://hashnode.com/@Altruist) where I share insights into my development journey, tips, and tutorials.
 
