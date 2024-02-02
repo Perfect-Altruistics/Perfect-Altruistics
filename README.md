@@ -6,8 +6,6 @@
 <details>
 <summary>More about me click here </summary>
   
-<div style="float: right">
-
 # Tito Joctan
 
 ## Introduction
@@ -44,10 +42,6 @@ I'm currently diving deeper into database management, honing my skills in both P
 
 ### Project 4: TaskManager
 - [TaskManager](https://github.com/Perfect-Altruistics/TaskManager): Simple task manager in python, flask, PostgreSQL, html and css.
-
-
-###### More Projects are in: [github](https://github.com/Perfect-Altruistics)
-
 
 ## 📝 Blog
 Catch up with my latest articles on [Hashnode](https://hashnode.com/@Altruist) where I share insights into my development journey, tips, and tutorials.
