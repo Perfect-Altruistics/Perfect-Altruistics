@@ -29,14 +29,6 @@ I'm a passionate software developer and web developer based in Arusha, Tanzania.
 ## 🌱 Current Learning
 I'm currently diving deeper into database management, honing my skills in both PostgreSQL and MySQL. Always eager to learn and explore new technologies to enhance my development journey.
 
-## 🚀 Projects
-
-### Project 1: PythonCodes
--  [GameHub](https://github.com/Perfect-Altruistics/GameHub): 
-
-### Project 2: Pythoncodes
-- [Pythoncodes ](https://github.com/Perfect-Altruistics/pythoncodes): A collection of Python code snippets mostly for beginners, if you're experienced programmer in python you'll not be happy with the repository as it is developed early for beginners
-
 ## 📝 Blog
 Catch up with my latest articles on [Hashnode](https://hashnode.com/@Altruist) where I share insights into my development journey, tips, and tutorials.
 
