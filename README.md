@@ -13,7 +13,7 @@ Hello, I'm Tito Joctan, a passionate Python Programmer, Technical Writer, Fronte
 
 
 ## About Me
-I'm a passionate software developer and web developer based in Arusha, Tanzania. My expertise lies in Python programming, and I'm currently exploring the vast world of databases, with a focus on PostgreSQL and MySQL.
+I'm a passionate software developer and web developer based in Arusha, Tanzania. My expertise lies in Python programming, and I'm currently exploring the vast world of databases, with a focus on PostgreSQL and MySQL .
 
 ## 💻 Tech Stack
 - **Languages**: Python, JavaScript
