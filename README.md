@@ -2,9 +2,6 @@
 
 # Hi👋, I'm Tito Joctan
 
-
-<details>
-<summary>More about me click here </summary>
   
 # Tito Joctan
 
